@@ -9,3 +9,5 @@ print(loud_fruits)
 # List and the enumerate function
 list(enumerate(fruits))
 [(0, 'Banana'), (1, 'Apple'), (2, 'Lime')]
+
+names=["carlos", "juan", "pedro"]
